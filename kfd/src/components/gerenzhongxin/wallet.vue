@@ -1,0 +1,14 @@
+<template>
+<!-- 钱包 -->
+    <div>
+        钱包
+    </div>
+</template>
+<script>
+export default {
+    
+}
+</script>
+<style scoped>
+    
+</style>
